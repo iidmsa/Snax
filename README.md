@@ -1,4 +1,4 @@
-### Snax Search Engine | <a href="https://snax-c8eba.web.app/" target="_blank">Demo</a>
+### SNAX Search Engine | <a href="https://snax-c8eba.web.app/" target="_blank">Demo</a>
 
 A full fledged search engine architected using Google's programmable search engine API.
 
